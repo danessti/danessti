@@ -1,10 +1,4 @@
-<marquee direction="down" height="200" behavior="alternate">
-    <h1>
-        <marquee behavior="alternate">
-            Hi 👋, I'm Daniel Espinosa
-        </marquee>
-    </h1><br>
-</marquee>
+<h1 align="center"><marquee>Hi 👋, I'm Daniel Espinosa</marquee></h1>
 
 <h3 align="center">A passionate back-End developer from Colombia</h3>
 
