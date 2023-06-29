@@ -1,5 +1,5 @@
 <h3>About me</h3>
-💎 Programming|💛 Series/Movies|🎮Video Games
+💎 Programming |💛 Series/Movies |🎮Video Games
 
 - 🌎 I'm from Armenia - Colombia
 
