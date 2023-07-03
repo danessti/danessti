@@ -10,6 +10,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Espinosa</h1>
 
 <h3 align="center">A passionate back-End developer from Colombia</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danessti&label=Profile%20views&color=0e75b6&style=flat" alt="danessti" /> </p>
 
 - 🔭 I’m currently working on **Learning in MAKAIA's Bootcamp**
 
